@@ -16,6 +16,12 @@ Based upon above acquired data, we have proposed to perform “Criclytics” i.e
 
 Above problem statement is applicable for all the matches that are played on International level under ICC authorization wing including Test, One-day International and T-20 Matches. 
 
+## Algorithms 
+![Screenshot](Images/Algorithms.png)
+
+## Project Flow 
+![Screenshot](Images/ProjectFlow.png)
+
 ### WHAT IS THE MARKET NEED OF PROJECT
 
 Project can be produce effective value for money in Betting Institutions and Fantasy leagues like Dream11, IPL fantasy leagues etc. It can even assist IPL franchises for comparative analysis to determine which Player should they invest upon and who will be better will be better value for money.   
